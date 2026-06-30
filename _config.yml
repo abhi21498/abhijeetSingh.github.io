@@ -17,7 +17,7 @@ keywords: Software Engineer, Full Stack, Cloud, AI, portfolio
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://abhijeet-singh.github.io # the base hostname & protocol for your site
+url: https://abhi21498.github.io/abhijeetSingh/ # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ayan's Blog # blog_name will be displayed in your blog page
+blog_name: Abhijeet's Blog # blog_name will be displayed in your blog page
 blog_description: Real decisions and tradeoffs behind AI systems
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -272,8 +272,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Arshad]
-  first_name: [Md Ayan, Ayan]
+  last_name: [Singh]  # your last name(s)
+  first_name: [Abhijeet, Abhijeet]  # your first name(s)
 
   style: apa
   locale: en
