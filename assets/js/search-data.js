@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-case-studies",
-          title: "case studies",
-          description: "Deep dives into systems I designed, shipped, and measured in production.",
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Projects I&#39;ve built",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/case-studies/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -81,55 +81,40 @@ ninja.data = [{
             window.open("https://dev.to/ayanarshad02/why-our-rag-system-was-silently-returning-wrong-answers-and-how-we-fixed-it-386g", "_blank");
           
         },
-      },{id: "projects-multi-tenant-rag-chatbot",
-          title: 'Multi-Tenant RAG Chatbot',
-          description: "Designed and shipped a production RAG chatbot serving 500+ enterprise WMS clients. Faithfulness from 0.67 to 0.91. Unsupported claim rate below 4%.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_rag_chatbot/";
-            },},{id: "projects-ai-ticket-resolution-system",
-          title: 'AI Ticket Resolution System',
-          description: "Built an AI system for Softeon&#39;s WMS support division that surfaces similar past tickets and relevant documentation at the moment a new ticket is raised. Took requirements directly from the support team, shipped end to end.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_ticket_resolution/";
-            },},{id: "projects-kapa-ai-yc-s23-inspired-rag-platform",
-          title: 'kapa.ai (YC S23) - Inspired RAG Platform',
-          description: "A production-grade, multi-tenant documentation RAG system built from first principles. 12-combination retrieval experiment. RAGAS-gated CI/CD. MCP server for Claude/Cursor integration. All four RAGAS metrics passing gate thresholds.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_kapa_rag_platform/";
-            },},{
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Md%20Ayan%20Arshad%20-%20AI%20Engineer.pdf", "_blank");
+          window.open("/assets/pdf/Abhijeet%20Singh%20-%20Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%79%61%6E%61%72%73%68%61%64%32%30%30%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%79%6F%75%72.%65%6D%61%69%6C@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/AyanArshad02", "_blank");
+          window.open("https://github.com/abhijeet-singh", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/md-ayan-arshad-740288248", "_blank");
+          window.open("https://www.linkedin.com/in/abhijeet-p-singh-645305264", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://dev.to/ayanarshad02", "_blank");
+          window.open("https://dev.to/yourusername", "_blank");
         },
       },{
       id: 'light-theme',
