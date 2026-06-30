@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Md Ayan
+title: Abhijeet Singh Portfolio # the website title (if blank, full name will be used instead)
+first_name: Abhijeet
 middle_name:
-last_name: Arshad
+last_name: Singh
 contact_note: >
   Best way to reach me is via LinkedIn or email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  GenAI & Agentic AI Engineer. Building RAG systems, agents, and AI infrastructure that works in production.
+description: > # the \">\" symbol means to ignore newlines until "footer_text:"
+  Software Engineer with expertise in full‑stack development, cloud services, and AI‑driven applications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: GenAI, Agentic AI, RAG, LLM, AI Engineer, portfolio
+keywords: Software Engineer, Full Stack, Cloud, AI, portfolio
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ayanarshad02.github.io # the base hostname & protocol for your site
+url: https://abhijeet-singh.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
